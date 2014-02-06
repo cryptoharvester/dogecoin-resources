@@ -41,6 +41,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.hashfaster.com
 - http://dogepool.pw
 - http://doge.luckyminers.com
+- http://doge.cryptoharvester.eu
 - http://doge.cryptoculture.net 
 - http://pool.testserverino.de
 - http://doge.netcodepool.org
