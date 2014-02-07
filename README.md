@@ -41,7 +41,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.hashfaster.com
 - http://dogepool.pw
 - http://doge.luckyminers.com
-- http://doge.cryptoharvester.eu
 - http://doge.cryptoculture.net 
 - http://pool.testserverino.de
 - http://doge.netcodepool.org
@@ -73,6 +72,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://77z.co/
 - http://doge.coinpooler.net/
 - http://doge.jtcpools.org
+- http://doge.cryptoharvester.eu
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
@@ -151,6 +151,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeCoin-JRPC](https://github.com/sinemetu1/DogeCoin-JRPC)
 - [node-dogecoin](https://github.com/countable/node-dogecoin)
 - [Dogecoin Code Snippets](https://github.com/brotchie/dogecoin-code-snippets)
+- [Network statistics] (http://doge.cryptoharvester.eu/networkstatistics)
 
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
